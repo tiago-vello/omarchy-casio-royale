@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "tiago.ae1200",
+  "name": "Casio Royale",
+  "version": "1.0.0",
+  "author": "tiago",
+  "license": "MIT",
+  "description": "Stopwatch modelled on the Casio AE-1200 (module 3299): 1/100 s, split and 1st/2nd place times",
+  "homepage": "https://github.com/tiago-vello/omarchy-casio-royale",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "Casio Royale",
+    "description": "AE-1200 style stopwatch with an LCD watch face popup",
+    "category": "Time",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}

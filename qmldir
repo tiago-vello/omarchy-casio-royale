@@ -1,0 +1,9 @@
+singleton StopwatchStore 1.0 StopwatchStore.qml
+WatchFace 1.0 WatchFace.qml
+CaseArt 1.0 CaseArt.qml
+LcdWindow 1.0 LcdWindow.qml
+DialLcd 1.0 DialLcd.qml
+MapLcd 1.0 MapLcd.qml
+SevenSegment 1.0 SevenSegment.qml
+AlphaSegment 1.0 AlphaSegment.qml
+SegBlock 1.0 SegBlock.qml
